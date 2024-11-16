@@ -2,8 +2,8 @@
 
 This repository contains a project focused on predicting car prices using machine learning techniques. The project follows the **CRISP-DM (Cross Industry Standard Process for Data Mining)** methodology to ensure a systematic and structured approach.
 
-Jupyter Notebook:
-Graph:
+## Python Notebook
+You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price-Prediction/blob/main/1.EDA%26ML.ipynb).
 
 ## Business Understanding
 - **Objective**: Provide a predictive model that helps users and dealerships estimate car prices based on specific attributes.
@@ -45,6 +45,8 @@ Graph:
      - \( R^2 \): ~5.0%.
 - **Top Features Identified**:
   - `year`, `condition`, `manufacturer_ferrari`, `manufacturer_tesla`, `transmission_manual`.
+    
+![image](https://github.com/user-attachments/assets/7da849fe-978a-4a6d-9de7-fed746ba60d3)
 
 ---
 
