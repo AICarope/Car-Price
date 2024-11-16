@@ -45,8 +45,8 @@ You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price
      - \( R^2 \): ~5.0%.
 - **Top Features Identified**:
   - `year`, `condition`, `manufacturer_ferrari`, `manufacturer_tesla`, `transmission_manual`.
-    
-![image](https://github.com/user-attachments/assets/7da849fe-978a-4a6d-9de7-fed746ba60d3)
+  
+<img src="https://github.com/user-attachments/assets/7da849fe-978a-4a6d-9de7-fed746ba60d3" alt="Graph Image" width="400">
 
 ---
 
@@ -75,12 +75,9 @@ You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price
     - Outliers in features like year (e.g., very old cars) and price (e.g., cars with 0 price) may distort model performance.
     - Missing data in critical features (condition, drive, fuel, etc.) reduces the reliability of the analysis.
 
-
-
-
 ---
 
-## Deployment and Reccomendations
+## Deployment and Recomendations
 - Next Steps:
   - Enhance model performance with advanced algorithms.
   - Handle Missing Data:Impute missing values or drop rows where critical features like condition are missing.
