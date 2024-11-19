@@ -34,7 +34,7 @@ You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price
 
 ## Modeling
 - Algorithms applied:
-  1. **Linear Regression**:
+  1. **Linear Regression for Multiple Regression**:
      - Baseline model for comparison.
      - \( R^2 \): ~5.9%, indicating weak linear relationships.
   2. **Ridge Regression**:
@@ -84,6 +84,7 @@ You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price
   - Outlier Treatment:Remove or cap outliers in price, year, and odometer.
   - Non-Linear Models:Try tree-based models like Random Forest or Gradient Boosting to capture complex relationships.
   - Expand Features: Include features like drive, size, and type to improve model explanatory power.
+  - Apply Time Series analysis to expand insides and apply ARMA (statinary) or ARIMA (non-stationary) models.
 
 ---
 
