@@ -54,7 +54,7 @@ You can access the Jupyter notebook [here](https://github.com/AICarope/Car-Price
 - **Metrics Used**:
   - Mean Squared Error (MSE): Average squared prediction error.
   - \( R^2 \): Proportion of variance explained by the model.
-  - 
+    
 - **Insights**:
   - Current models explain limited variance, suggesting:
     - Need for additional features.
